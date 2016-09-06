@@ -1,6 +1,6 @@
 {
   "name": "get-manifest-external",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Allows a Chrome extension or App to send its manifest file to an external page",
   "main": "get-manifest-external.js",
   "scripts": {
