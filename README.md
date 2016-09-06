@@ -13,10 +13,11 @@ npm install get-manifest-external --save
 
 ### background.js
 ```javascript
+// require the file in background.js
+require('get-manifest-external');
 
-// Import the file into background.js 
-
-import 'node_modules/get-manifest-external/get-manifest-external';
+// or import the file into background.js (requires babel)
+import 'get-manifest-external';
 
 ```
 
