@@ -6,11 +6,20 @@ external page.
 
 ## Usage
 
+### Installation
+```bash
+npm install get-manifest-external --save
+```
+
 ### background.js
 ```javascript
 // Require this module in your background.js
 
 require('get-manifest-external');
+
+// or use es6 import
+
+import 'node_modules/get-manifest-external/get-manifest-external';
 
 ```
 
