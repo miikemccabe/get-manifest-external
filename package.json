@@ -1,0 +1,27 @@
+{
+  "name": "get-manifest-external",
+  "version": "1.0.0",
+  "description": "Allows a Chrome extension or App to send its manifest file to an external page",
+  "main": "get-manifest-external.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmisterman/get-manifest-external.git"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "app",
+    "manifest",
+    "external",
+    "get"
+  ],
+  "author": "Mike McCabe <mrmikemccabe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmisterman/get-manifest-external/issues"
+  },
+  "homepage": "https://github.com/mrmisterman/get-manifest-external#readme"
+}
