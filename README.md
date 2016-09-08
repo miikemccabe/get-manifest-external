@@ -1,6 +1,6 @@
 # get-manifest-external
 
-Include this file in a Chrome App or Extension's background page
+Include get-manifest-external.js in a Google Chrome App or Extension's background page
 and it will allow you to request the manifest file from an
 external page.
 
